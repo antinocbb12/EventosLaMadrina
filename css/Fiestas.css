@@ -90,7 +90,7 @@
 {
 
     background: black;
-    padding: 2%;
+    padding: 0%;
 }
 .videosFiestas
 {  height: 100%;
@@ -391,7 +391,7 @@
 {
     .contenderHeder
     {
-        height: 1080px;
+        height: 100%;
         width: 100%;
         background: black;
     }
